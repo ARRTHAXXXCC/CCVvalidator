@@ -31,11 +31,11 @@ Key Features:
 2. **Prepare your combolist file** containing the card details in the specified format.
 3. **Compile the script** using:
    ```bash
-   javac validatorARRTHAXXXCC.java
+   java validatorARRTHAXXXCC.java
    ```
 4. **Run the program** with:
    ```bash
-   java validatorARRTHAXXXCC
+   java validatorARRTHAXXXCC.java
    ```
 5. **Provide the path** to your combolist file when prompted.
 
